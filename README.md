@@ -1,11 +1,5 @@
-# RailsCasts Example Application
+## AJAX checklist
 
-Run these commands to try it out.
+Learning how to turn a traditional Rails app into one that interacts through Ajax by adding "remote" options, JavaScript templates and a dabble of jQuery.
 
-```
-bundle
-rake db:setup
-rails s
-```
-
-Requires Ruby 1.9.2 or later to run.
+Following along with [Railscast #136](http://railscasts.com/episodes/136-jquery-ajax-revised).
